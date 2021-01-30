@@ -198,6 +198,8 @@ exclude:
   - package-lock.json
   - package.json
   - /docs
+  - /docker
+  - /tools
   - /node_modules
   - /screenshots
   - /test
