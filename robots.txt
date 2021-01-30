@@ -1,1 +1,1 @@
-Sitemap: https://tianqi.name/jekyll-TeXt-theme/sitemap.xml
+Sitemap: https://ludover-workshop.github.io/website/sitemap.xml
