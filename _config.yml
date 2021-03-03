@@ -18,8 +18,8 @@
 ##############################
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://ludover-workshop.github.io
-baseurl : /website
+url     : http://www.ludover.com
+baseurl : /
 title   : Ludover - Taller de Videojuegos
 description: > # this means to ignore newlines until "Language & timezone"
   Ludover es un espacio para facilitar el acercamiento y aprendizaje de personas que deseen
@@ -193,6 +193,7 @@ exclude:
   - LICENSE
   - README-*.md
   - README.md
+  - Dockerfile.dev
   - gulpfile.js
   - jekyll-text-theme.gemspec
   - package-lock.json
