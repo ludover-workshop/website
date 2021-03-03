@@ -1,1 +1,1 @@
-Sitemap: https://ludover-workshop.github.io/website/sitemap.xml
+Sitemap: http://www.ludover.com/sitemap.xml
