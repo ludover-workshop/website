@@ -19,5 +19,5 @@ Es un taller, en oposición a un curso. Esto implica que la atención estará en
 Tiene un ritmo sostenible, en oposición a las Game Jams. En lugar de crear algo en un tiempo muy corto y con un ritmo muy intenso, la intención es llevar adelante un ritmo sostenible durante algunos meses. La demanda de tiempo será mayor. Pero a cambio habrá más tiempo para madurar los conceptos y aprender, y también para desarrollar proyectos más ambiciosos.
 </p>
 <p>
-Más allá de todo, Ludover busca ser una ayuda para quienes necesitan un empujón para realizar sus proyectos de juegos. Un lugar en el cual puedan encontrarse con gente con intereses parecidos y compartir conocimientos y experiencia.
+Más allá de todo, Ludover busca ser una ayuda para quienes necesitan un empujón para realizar sus proyectos de juegos. Un lugar en el cual puedan encontrarse con gente con intereses parecidos y compartir conocimientos y experiencia...
 </p>
